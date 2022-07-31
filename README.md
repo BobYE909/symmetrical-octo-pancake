@@ -1,2 +1,2 @@
-# symmetrical-octo-pancake
-Financial_Time_Series_Analysis_python
+# Financial_Time_Series_Analysis_python
+简介 ：本文旨在将北京大学李东风教授的《金融时间序列分析R语言》中涉及R语言的实例部分用python转写，R语言在时序分析上具有不可代替的优势，但为了对python用户友好，作者闲的没事干，写下了如下代码，一来为了自己学习金融时序相关理论，二来深觉这是一部关于金融时序的极佳教材，故也供python用户参考。数据包中原材料都是生数，向frame的转换采用了作者熟练的方式，但数据的处理远不止一种方法。实例只是理解理论的工具，希望读者更多的关注李东风教授对模型的阐述和推导。
